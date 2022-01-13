@@ -1,12 +1,12 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "File Dl Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Ansaku/File-Sharing-Bot",
+  "repository": "https://github.com/Ansaku/FileDlBot",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
